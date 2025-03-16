@@ -1,6 +1,6 @@
 # GIMP Pro 2023 2024 2025  
 ###  
->[!info]  
+>[!tip]  
 > **GIMP Pro** is a robust and flexible image editing software, providing a top-tier alternative to **Adobe Photoshop**. Perfect for photographers, designers, and digital artists, GIMP Pro delivers advanced editing tools for photo enhancement, graphic creation, and artistic retouching—without the need for expensive subscriptions.  
 ###  
 
